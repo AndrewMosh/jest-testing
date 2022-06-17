@@ -4,6 +4,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
@@ -20,7 +21,9 @@ body {
 .converter p,
 footer {
   color: azure;
+  text-align: center;
 }
+
 #btn {
   border: none;
   text-decoration: none;
@@ -29,14 +32,21 @@ footer {
   width: 100px;
   height: 30px;
   border-radius: 20px;
-  margin: 5px;
+  margin: 8px;
+}
+#steps:focus {
+  background-color: rgba(0, 0, 0, 0.277);
+  color: white;
 }
 #btn:hover {
-  background-color: green;
+  background-color: rgba(0, 0, 0, 0.507);
+  color: white;
   transform: scale(1.1);
+  cursor: pointer;
 }
 #steps {
-  width: 210px;
+  width: 230px;
+  border-radius: 5px;
 }
 @media (max-width: 528px) {
   .converter {
