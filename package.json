@@ -1,0 +1,22 @@
+{
+  "name": "step-converter",
+  "version": "1.0.0",
+  "description": "for testing",
+  "main": "code.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewMosh/step-converter.git"
+  },
+  "author": "Andrew Moshchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewMosh/step-converter/issues"
+  },
+  "homepage": "https://github.com/AndrewMosh/step-converter#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
