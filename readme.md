@@ -9,3 +9,7 @@
 ![plot](https://github.com/AndrewMosh/step-converter/blob/main/src/converter.png)
 
 ![plot](https://github.com/AndrewMosh/step-converter/blob/main/src/jest%20testing.png)
+
+## Задание 2 (Калькулятор процентов)
+
+![plot](https://github.com/AndrewMosh/step-converter/blob/main/src/task2.png)
