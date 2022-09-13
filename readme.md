@@ -1,3 +1,3 @@
 # Конвертер шагов
 
-![plot]()
+![plot](https://github.com/AndrewMosh/step-converter/blob/main/src/pic.png)
