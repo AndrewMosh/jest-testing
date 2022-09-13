@@ -12,4 +12,4 @@
 
 ## Задание 2 (Калькулятор процентов)
 
-![plot]()
+![plot](https://github.com/AndrewMosh/step-converter/blob/main/src/task2%20new.png)
