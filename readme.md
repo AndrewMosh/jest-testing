@@ -8,4 +8,4 @@
 
 ![plot](https://github.com/AndrewMosh/step-converter/blob/main/src/converter.png)
 
-![plot](https://github.com/AndrewMosh/step-converter/blob/main/src/converter.png)
+![plot](https://github.com/AndrewMosh/step-converter/blob/main/src/jest%20testing.png)
